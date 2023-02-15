@@ -15,7 +15,7 @@ int main(int argc, char* argv[])
     }
 
     // Actual app
-    auto ctx = p6::Context{{.title = "Simple-p6-Setup"}};
+    auto ctx = p6::Context{{.title = "projet_prog_23"}};
     ctx.maximize_window();
 
     // Declare your infinite update loop.
